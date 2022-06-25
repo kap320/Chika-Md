@@ -81,7 +81,7 @@ global.myweb = 'https://s.id/RiyAPIs'
 global.email = 'boyahmad13131@gmail.com'
 global.region = 'indonesia'
 global.packname = '© Chika-Md'
-global.author = 'RIY'
+global.author = 'RIZA'
 global.sessionName = 'chika'
 ```
 
@@ -92,7 +92,7 @@ global.sessionName = 'chika'
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/U1suj4wuWvc"><img src="https://telegra.ph/file/4e8679b0d4677be9a2995.jpg" />
+  <a href="https://Bit.ly3qCgkKv"><img src="https://telegra.ph/file/4e8679b0d4677be9a2995.jpg" />
 </p>
 
 ## Donate
