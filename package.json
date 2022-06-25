@@ -2,10 +2,10 @@
   "name": "Chika-Md",
   "version": "1.2.3",
   "description": "WhatsApp Using Lib Baileys Multi Device",
-  "main": "riy.js",
+  "main": "riza.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node riy.js"
+    "start": "node riza.js"
   },
   "keywords": [
     "termux",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Riy.",
+  "author": "Riza.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
@@ -68,10 +68,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/riychdwayne/Chika-Md.git"
+    "url": "git+https://github.com/kap320/Chika-Md.git"
   },
   "bugs": {
-    "url": "https://github.com/riychdwayne/Chika-Md/issues"
+    "url": "https://github.com/kap320/Chika-Md/issues"
   },
-  "homepage": "https://github.com/riychdwayne/Chika-Md#readme"
+  "homepage": "https://github.com/kap320/Chika-Md#readme"
 }
