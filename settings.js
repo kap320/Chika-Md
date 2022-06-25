@@ -1,5 +1,5 @@
   /*
-  Created By Riy
+  Created By Riza
   Base Ori : DikaArdnt
   Kalau Mau Nambahin Fitur Di › index.js
   Edit Tampilan Menu Dll. Di › Language › help.js
@@ -19,25 +19,25 @@
   }
 
   // Setting Owner
-  global.owner = ['6283156715878','6283156715878','6283156715878'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-  global.premium = ['6283156715878'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-  global.ownernomer = '6283156715878' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+  global.owner = ['62895360689268','6281391883354','6281391883354'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+  global.premium = ['6281391883354'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+  global.ownernomer = '6281391883354' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
   // Set Nama Own & Bot
   global.ownername = 'Arthur' //ubah jadi nama mu, note tanda ' gausah di hapus!
-  global.botname = 'Arthur-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-  global.footer = 'Arthur' //ubah jadi nama mu, note tanda ' gausah di hapus!
+  global.botname = 'Riza-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+  global.footer = 'NakanoMiku' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
   // Set Kebutuhan Button & Kontak
   //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-  global.youtube = 'https://bit.ly/3MOvVPn'
-  global.mygc = 'https://bit.ly/3MOvVPn'
+  global.youtube = 'https://bit.ly/3qCgkKv'
+  global.mygc = 'https://chat.whatsapp.com/GDkS1ngeDN388uACndy2kv'
   global.myweb = 'https://bit.ly/3MOvVPn'
   global.region = 'indonesia'
 
   // Set Wm
-  global.packname = '© Arthur-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-  global.author = 'Arthur' //ubah jadi nama mu, note tanda ' gausah di hapus!
+  global.packname = '© Riza-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+  global.author = 'NakanoMiku' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
   // Set Nama Session
   //gausah di apa² in!
